@@ -55,7 +55,7 @@ Whether you want to **teach** what you know or **learn** what you love — Skill
 ![Profile Match](./Screenshots/profile%20match.jpg)
 
 ### 🔐 Login / Google OAuth  
-![Login](./Screenshots/login.jpg)
+![Login](login.jpg)
 
 
 - 🧠 Skill Match Screen  
