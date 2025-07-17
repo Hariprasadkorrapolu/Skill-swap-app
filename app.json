@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Skill Swap Hub",
+    "slug": "Skill Swap Hub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/skill-swap-logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/skill-swap-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/skill-swap-logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/skill-swap-logo.png"
+    }
+  }
+}
