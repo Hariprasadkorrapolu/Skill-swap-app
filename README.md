@@ -43,19 +43,19 @@ Whether you want to **teach** what you know or **learn** what you love — Skill
 ## 📸 Screenshots
 
 ### 🧠 Skill Match Screen  
-![Skill Match](./screenshots/match-screen.jpg)
+![Skill Match](./Screenshots/match-screen.jpg)
 
 ### 📅 Google Meet Scheduler  
-![Meet Scheduler](./screenshots/meet-scheduler.jpg)
+![Meet Scheduler](./Screenshots/meet-scheduler.jpg)
 
 ### 👤 Profile Info  
-![Profile Info](./screenshots/profile.jpg)
+![Profile Info](./Screenshots/profile.jpg)
 
 ### 👥 Profile Match  
-![Profile Match](./screenshots/profile%20match.jpg)
+![Profile Match](./Screenshots/profile%20match.jpg)
 
 ### 🔐 Login / Google OAuth  
-![Login](./screenshots/login.jpg)
+![Login](./Screenshots/login.jpg)
 
 
 - 🧠 Skill Match Screen  
