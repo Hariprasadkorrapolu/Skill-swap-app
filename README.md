@@ -46,7 +46,7 @@ Whether you want to **teach** what you know or **learn** what you love — Skill
 ![Skill Match](./Screenshots/match-screen.jpg)
 
 ### 📅 Google Meet Scheduler  
-![Meet Scheduler](./Screenshots/meet-scheduler.jpg)
+![Meet Scheduler](./Screenshots/IMG-20250717-WA0031.jpg)
 
 ### 👤 Profile Info  
 ![Profile Info](./Screenshots/profile.jpg)
