@@ -38,7 +38,7 @@ Whether you want to **teach** what you know or **learn** what you love — Skill
 
 ---
 
-## 📸 Screenshots
+
 
 ## 📸 Screenshots
 
