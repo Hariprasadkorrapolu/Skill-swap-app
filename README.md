@@ -40,7 +40,23 @@ Whether you want to **teach** what you know or **learn** what you love — Skill
 
 ## 📸 Screenshots
 
-> *(Add your screenshots in a `/screenshots` folder and link them here)*
+## 📸 Screenshots
+
+### 🧠 Skill Match Screen  
+![Skill Match](./screenshots/match-screen.jpg)
+
+### 📅 Google Meet Scheduler  
+![Meet Scheduler](./screenshots/meet-scheduler.jpg)
+
+### 👤 Profile Info  
+![Profile Info](./screenshots/profile.jpg)
+
+### 👥 Profile Match  
+![Profile Match](./screenshots/profile%20match.jpg)
+
+### 🔐 Login / Google OAuth  
+![Login](./screenshots/login.jpg)
+
 
 - 🧠 Skill Match Screen  
 - 💬 Gemini Chat Integration  
